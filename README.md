@@ -13,11 +13,11 @@ TensorFlow 2.x<br>
 Keras 2.x<br>
 Streamlit 1.x<br>
 
-###You can install these packages using pip, by running the following command:
+### You can install these packages using pip, by running the following command:
 
-####pip install tensorflow keras streamlit pillow<br>
+#### pip install tensorflow keras streamlit pillow<br>
 
-#Usage
+# Usage
 To use the leaf disease detection model, you can run the Streamlit application by running the following command:
 
 #### streamlit run app.py<br>
